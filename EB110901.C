@@ -1,5 +1,5 @@
 /* Program to Find Average Of Two Numbers */
-/* NIKHILO KUMAR */
+/* NIKHIL KUMAR */
 #include<stdio.h>
 #include<conio.h>
 
