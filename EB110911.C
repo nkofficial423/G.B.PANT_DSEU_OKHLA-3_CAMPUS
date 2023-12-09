@@ -1,4 +1,4 @@
-/* Program to print the numbers from 1 to 100 */
+/* Program to Print The Numbers From 1 to 100 */
 /* NIKHIL KUMAR */
 #include<stdio.h>
 #include<conio.h>
